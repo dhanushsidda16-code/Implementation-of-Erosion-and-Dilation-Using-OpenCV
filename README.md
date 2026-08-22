@@ -59,9 +59,9 @@ Compare the original, eroded, and dilated images.
 
 ## Developed By
 
-**Name:** ____________________________
+**Name:** ____________Sidda Dhanush________________
 
-**Register No:** ______________________
+**Register No:** ______212224243006________________
 
 ## Output
 
